@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+icon: blog
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 观自在
