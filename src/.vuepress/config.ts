@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchPlugin } from "@vuepress/plugin-search";
-import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
+//import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 
 export default defineUserConfig({
   base: "/myblog/",
@@ -16,10 +16,6 @@ export default defineUserConfig({
 
   theme,
   plugins: [
-     // 注册全局组件的插件
-     registerComponentsPlugin({
-      componentsDir: ("components"),
-    }),
 
     // 搜索插件
     searchPlugin({
