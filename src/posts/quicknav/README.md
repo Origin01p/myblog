@@ -2,7 +2,7 @@
 # 当前页面内容标题
 title: 快速导航
 # 当前页面图标
-icon: navigation
+icon: compass
 # 分类
 category:
   - 快速导航
