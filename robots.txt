@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://origin01p.github.io/myblog/myblog/sitemap.xml
