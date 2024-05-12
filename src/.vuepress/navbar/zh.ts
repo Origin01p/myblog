@@ -10,17 +10,17 @@ export const zhNavbar = navbar([
   {
     text: "安娜档案",
     icon: "inbox",
-    prefix: "/resources/",
+    prefix: "/posts/floatinglife/resources/",
     children: [
       {
         text: "书籍资源",
         icon: "book",
-        link: "books/",
+        link: "/posts/floatinglife/resources/books/",
       },
       {
         text: "影音资源",
         icon: "play",
-        link: "videos/",
+        link: "/posts/floatinglife/resources/videos/",
       },
     ],
   },
