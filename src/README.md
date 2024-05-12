@@ -1,11 +1,11 @@
 ---
 home: true
-layout: BlogHome
+layout: PortfolioHome
 icon: home
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 生日快乐！！！
-heroFullScreen: false
+heroFullScreen: true
 tagline:  天之道损有余而补不足
 projects:
   - icon: project
