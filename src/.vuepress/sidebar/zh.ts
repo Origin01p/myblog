@@ -7,7 +7,7 @@ export const zhSidebar = sidebar({
       text: "Java核心",
       icon: "java",
       collapsible: true,
-      prefix: "/codenotes/javacore/",
+      prefix: "/notes/javacore/",
       children: [
         {
           text: "Java基础-面向对象",
@@ -60,14 +60,14 @@ export const zhSidebar = sidebar({
       text: "Java虚拟机",
       icon: "engine",
       collapsible: true,
-      prefix: "/codenotes/jvm/",
+      prefix: "/notes/jvm/",
       children: [""],
     },
     {
       text: "企业级框架",
       icon: "frame",
       collapsible: true,
-      prefix: "/codenotes/framework/",
+      prefix: "/notes/framework/",
       children: [
         {
           text: "Netty",
@@ -87,7 +87,7 @@ export const zhSidebar = sidebar({
       text: "算法和数据结构",
       icon: "ability",
       collapsible: true,
-      prefix: "/codenotes/algdata/",
+      prefix: "/notes/algdata/",
       children: [
         {
           text: "算法小抄",
@@ -109,21 +109,21 @@ export const zhSidebar = sidebar({
       text: "数据库",
       icon: "mysql",
       collapsible: true,
-      prefix: "/codenotes/database/",
+      prefix: "/notes/database/",
       children: [""],
     },
     {
       text: "开发必备",
       icon: "tool",
       collapsible: true,
-      prefix: "/codenotes/devtool/",
+      prefix: "/notes/devtool/",
       children: [""],
     },
     {
       text: "在线技术文档",
       icon: "read",
       collapsible: true,
-      prefix: "/codenotes/cookbook/",
+      prefix: "/notes/cookbook/",
       children: [""],
     },
   ],
