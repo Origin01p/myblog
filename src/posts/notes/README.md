@@ -2,7 +2,7 @@
 # 当前页面内容标题
 title: 笔记目录页
 # 当前页面图标
-icon: code
+icon: pencil
 # 分类
 category:
   - 目录
@@ -20,27 +20,26 @@ article: false
 timeline: false
 ---
 
-## Java核心
+## 代数
 
 
 
 
 
+这里关于代数
 
 
 
+## 分析
 
+这里关于分析
+傅里叶分析
+复分析
+实分析
+泛函分析
 
-
-## Java虚拟机
-
-
-
-
-
-
-
-## 企业级框架
+## 拓扑
+点集拓扑
 
 ### Netty
 

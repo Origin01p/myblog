@@ -2,7 +2,7 @@
 # 当前页面内容标题
 title: 杂记目录页
 # 当前页面图标
-icon: note
+icon: mug-saucer
 # 分类
 category:
   - 目录
