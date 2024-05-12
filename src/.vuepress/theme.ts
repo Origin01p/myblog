@@ -16,10 +16,10 @@ export default hopeTheme({
 
  iconAssets: "fontawesome-with-brands",
 
-  //logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  logo: "public/1logo.png",
-  
+
+
   // 导航栏上的个人仓库地址
   repo: "https://github.com/",
 
