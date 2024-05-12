@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchPlugin } from "@vuepress/plugin-search";
 //import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
   base: "/myblog/",
@@ -16,7 +17,9 @@ export default defineUserConfig({
 
   theme,
   plugins: [
-
+    mdEnhancePlugin({
+      // 你的选项
+    }),
     // 搜索插件
     searchPlugin({
       //多语言支持
