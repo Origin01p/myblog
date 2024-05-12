@@ -7,12 +7,12 @@ export const zhSidebar = sidebar({
       text: "代数",
       icon: "book",
       collapsible: true,
-      prefix: "/notes/javacore/",
+      prefix: "/posts/notes/javacore/",
       children: [
         {
           text: "Java基础-面向对象",
           icon: "write",
-          link: "/notes/javacore/Java基础-面向对象.md",
+          link: "基础-面向对象.md",
         },
         {
           text: "Java基础-泛型机制",
