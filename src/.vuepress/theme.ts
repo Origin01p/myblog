@@ -60,6 +60,7 @@ export default hopeTheme({
       blog: {
         description: "学生",
         intro: "/intro.html",
+        avatar: "src\.vuepress\public\alogo.png",
         medias: {
           //Baidu: "https://example.com",
           BiliBili: "https://example.com",
@@ -95,9 +96,6 @@ export default hopeTheme({
           //MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
         },
       },
-
-
-
 
 
       // page meta
@@ -166,12 +164,12 @@ export default hopeTheme({
       vPre: true,
 
       // install chart.js before enabling it
-      // chart: true,
+      chart: true,
 
       // insert component easily
 
       // install echarts before enabling it
-      // echarts: true,
+      echarts: true,
 
       // install flowchart.ts before enabling it
       // flowchart: true,
