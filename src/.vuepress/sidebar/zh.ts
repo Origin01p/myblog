@@ -2,7 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
   // 代码笔记的侧边栏
-  "/notes/": [
+  "/posts/notes/": [
     {
       text: "Java核心",
       icon: "java",
@@ -129,7 +129,7 @@ export const zhSidebar = sidebar({
   ],
 
   // 浮生杂记的侧边栏
-  "/floatinglife/": [
+  "/posts/floatinglife/": [
     {
       text: "小镇美食家",
       icon: "linter",
@@ -157,7 +157,7 @@ export const zhSidebar = sidebar({
   ],
 
   // 开源项目的侧边栏
-  "/projects/": [
+  "/posts/projects/": [
     {
       text: "技术教程",
       icon: "guide",
