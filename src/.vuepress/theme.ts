@@ -14,10 +14,9 @@ export default hopeTheme({
 
  //iconAssets: "fontawesome",
 
- iconAssets: "fontawesome-with-brands",
+  iconAssets: "fontawesome-with-brands",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
-
 
 
   // 导航栏上的个人仓库地址
