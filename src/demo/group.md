@@ -1,3 +1,37 @@
+---
+# 这是文章的标题
+title: 页面配置
+# 你可以自定义封面图片
+cover: /assets/images/cover1.jpg
+# 这是页面的图标
+icon: file
+# 这是侧边栏的顺序
+order: 3
+# 设置作者
+author: PQ
+# 设置写作时间
+date: 2024-05-01
+# 一个页面可以有多个分类
+category:
+  - 使用指南
+# 一个页面可以有多个标签
+tag:
+  - 页面配置
+  - 使用指南
+# 此页面会在文章列表置顶
+sticky: true
+# 此页面会出现在星标文章中
+star: true
+# 你可以自定义页脚
+footer: 这是测试显示的页脚
+# 你可以自定义版权信息
+copyright: 无版权
+---
+
+`more` 注释之前的内容被视为文章摘要。
+
+<!-- more -->
+
 核心：[对称即群]
 
 ==对称的量化==
@@ -48,3 +82,21 @@ $S(N)$是一个带有运算的集合，满足以下规律：
 
 定理：有限半群G若满足左右消去律，则G为群。
 
+
+$ a =1 $
+\$a=1$
+\$a=1\$
+
+主题包含一些有用的组件。这里是一些例子:
+
+- 文字结尾应该有深蓝色的 徽章文字 徽章。 <Badge text="徽章文字" color="#242378" />
+
+- 一个卡片:
+
+  ```component VPCard
+  title: Mr.Hope
+  desc: Where there is light, there is hope
+  logo: https://mister-hope.com/logo.svg
+  link: https://mister-hope.com
+  background: rgba(253, 230, 138, 0.15)
+  ```
