@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 观自在
+heroText: 生日快乐！！！
 heroFullScreen: true
 tagline:  天之道损有余而补不足
 projects:
