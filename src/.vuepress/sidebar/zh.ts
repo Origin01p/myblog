@@ -6,7 +6,7 @@ export const zhSidebar = sidebar({
     {
       text: "Java核心",
       icon: "java",
-      collapsible: true,
+      //collapsible: true,
       prefix: "/notes/javacore/",
       children: [
         {
