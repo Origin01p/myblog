@@ -1,6 +1,6 @@
 ---
 home: true
-layout: PortfolioHome
+layout:BlogHome
 icon: home
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
