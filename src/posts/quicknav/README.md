@@ -21,7 +21,7 @@ timeline: true
 
 ## 搜索引擎
 
-[百度](http：//www.baidu.com)
+[百度]([http：//www.baidu.com](https://www.baidu.com/))
 
 ## 开源社区
 
