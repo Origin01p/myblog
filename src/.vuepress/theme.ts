@@ -12,11 +12,10 @@ export default hopeTheme({
     url: "https://github.com/",
   },
 
- //iconAssets: "fontawesome",
-
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+ // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+ logo: "src\.vuepress\public\alogo.png",
 
 
   // 导航栏上的个人仓库地址
@@ -60,7 +59,6 @@ export default hopeTheme({
       blog: {
         description: "学生",
         intro: "/intro.html",
-        avatar: "src\.vuepress\public\alogo.png",
         medias: {
           //Baidu: "https://example.com",
           BiliBili: "https://example.com",
