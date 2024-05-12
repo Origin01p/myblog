@@ -3,7 +3,7 @@ home: true
 layout:BlogHome
 icon: home
 title: 主页
-heroImage: src\.vuepress\public\1logo.png
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 生日快乐！！！
 heroFullScreen: true
 tagline:  天之道损有余而补不足
