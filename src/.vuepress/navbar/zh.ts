@@ -15,7 +15,7 @@ export const zhNavbar = navbar([
       {
         text: "书籍资源",
         icon: "book",
-        link: "/posts/floatinglife/resources/books/",
+        link: "/posts/floatinglife/resources/books/README.md",
       },
       {
         text: "影音资源",
