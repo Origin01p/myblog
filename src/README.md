@@ -1,9 +1,9 @@
 ---
 home: true
-layout:BlogHome
+layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: src\.vuepress\public\1logo.png
 heroText: 生日快乐！！！
 heroFullScreen: true
 tagline:  天之道损有余而补不足
