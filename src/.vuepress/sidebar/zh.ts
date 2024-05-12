@@ -4,15 +4,15 @@ export const zhSidebar = sidebar({
   // 代码笔记的侧边栏
   "/posts/notes/": [
     {
-      text: "Java核心",
-      icon: "java",
-      //collapsible: true,
+      text: "代数",
+      icon: "book",
+      collapsible: true,
       prefix: "/notes/javacore/",
       children: [
         {
           text: "Java基础-面向对象",
           icon: "write",
-          link: "Java基础-面向对象.md",
+          link: "/notes/javacore/Java基础-面向对象.md",
         },
         {
           text: "Java基础-泛型机制",
