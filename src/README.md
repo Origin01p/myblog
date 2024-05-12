@@ -3,7 +3,7 @@ home: true
 layout:BlogHome
 icon: home
 title: 主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: src\.vuepress\public\1logo.png
 heroText: 生日快乐！！！
 heroFullScreen: true
 tagline:  天之道损有余而补不足
@@ -44,5 +44,5 @@ footer: 道阻且长，行则将至
 
 
 这是个人博客，站内文档仅是个人学习使用。
-
+https://theme-hope-assets.vuejs.press/logo.svg
 相关配置文档请见 [主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
