@@ -19,6 +19,21 @@ export default defineUserConfig({
   plugins: [
     mdEnhancePlugin({
       // 你的选项
+      katex: true,
+      // 启用下角标功能
+      sub: true,
+      // 启用上角标
+      sup: true,
+      footnote: true,
+      mark: true,
+      tasklist: true,
+      figure: true,
+      // 启用图片懒加载
+      imgLazyload: true,
+      // 启用图片标记
+      imgMark: true,
+      // 启用图片大小
+      imgSize: true,
     }),
     // 搜索插件
     searchPlugin({
